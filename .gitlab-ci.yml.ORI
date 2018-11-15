@@ -1,0 +1,4 @@
+
+runner-mailbot:
+  script: "./run-ci-mailbot.sh"
+
