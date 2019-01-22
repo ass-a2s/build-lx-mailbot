@@ -75,9 +75,15 @@ WantedBy=multi-user.target
 Example
 =======
 
+* Console
+
 ![](images/ass_it_mailbot_1.png)
 
+* Gitlab-Runner LOG
+
 ![](images/ass_it_mailbot_2.png)
+
+* Zendesk Ticket
 
 ![](images/ass_it_mailbot_3.png)
 
