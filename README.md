@@ -72,3 +72,12 @@ WantedBy=multi-user.target
 ╰─○
 ```
 
+Example
+=======
+
+![](images/ass_it_mailbot_1.png)
+
+![](images/ass_it_mailbot_2.png)
+
+![](images/ass_it_mailbot_3.png)
+
